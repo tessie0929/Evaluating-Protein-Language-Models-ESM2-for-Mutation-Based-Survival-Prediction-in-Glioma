@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Glioma survival modelling with binary mutation encoding and ESM2-derived features"
+authors:
+  - family-names: "Xiao"
+    given-names: Zhen"
+  - family-names: "Oldnall"
+    given-names: "Christopher A."
+version: "1.0.0"
+date-released: 2026-04-24
+abstract: "Code and analysis files for a project comparing binary mutation encoding with ESM2-derived features for glioma survival modelling."
+repository-code: "https://github.com/tessie0929/Evaluating-Protein-Language-Models-ESM2-for-Mutation-Based-Survival-Prediction-in-Glioma"
+license: "MIT"
